@@ -1,0 +1,30 @@
+
+body{
+color: brown;
+background: white;
+font-size: 50%; /*Unidades de medida absolutas*/
+margin: 50px;
+
+}
+h1{
+    
+
+color:white ;
+
+}
+
+p{
+font-size: 2em;
+    color: beige;
+}
+
+div{
+background: blue;
+color: rgb(255, 0, 0);
+
+}
+select{
+
+
+
+}
