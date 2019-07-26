@@ -107,7 +107,24 @@ aside{
 
 
 }
+#link{
 
+	color:  white;
+
+
+	text-align:center;
+	font-size: 20px; 
+
+
+
+}
+
+#nombreLink{
+
+
+	text-align: center;
+	font-size: 25px;
+}
 
 #footer{
 
