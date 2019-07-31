@@ -1,0 +1,176 @@
+body{
+
+/*background: gray;
+background: url(../img/Fondo2.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: auto;
+*/
+background: gray;
+}
+
+h1, h2{
+    position: relative;
+background: #ff800f;
+
+font-size: 10px;
+text-align: center;
+
+margin:10px 10px;
+padding:10px; 
+}
+
+.Caja1{
+
+
+position: relative;
+
+top: ;
+bottom: ;
+right: ;
+left: 500px;   
+border: 10px solid black; 
+width: 100px;
+height: 100px;
+}
+
+.Caja2{
+
+
+position: relative;
+top: ;
+bottom: ;
+right: ;
+left: 250px;   
+border: 10px solid black; 
+width: 100px;
+height: 100px; 
+}
+
+.Caja3{
+
+
+position: relative;
+top:  ;
+bottom:120px ;
+right: ;
+left: 740px;   
+border: 10px solid black; 
+width: 100px;
+height: 100px;
+overflow: auto;
+ 
+}
+
+.Caja4{
+
+
+position: relative;
+top: ;
+bottom: ;
+right: ;
+left: 50px;   
+border: 10px solid black; 
+width: 100px;
+height: 100px;
+}
+
+.Caja5{
+
+
+position: relative;
+top: ;
+bottom: ;
+right: ;
+left: 50px;   
+border: 10px solid black; 
+width: 100px;
+height: 100px;
+}
+
+.Caja6{
+
+
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 50px;   
+    border: 10px solid black; 
+    width: 100px;
+    height: 100px;    
+}
+.Caja7{
+
+
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 50px;   
+    border: 10px solid black; 
+    width: 100px;
+    height: 100px;  
+}
+
+.Caja8{
+
+
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 50px;   
+    border: 10px solid black; 
+    width: 100px;
+    height: 100px;
+}
+
+.Caja9{
+
+
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 50px;   
+    border: 10px solid black; 
+    width: 100px;
+    height: 100px; 
+}
+
+.Caja10{
+
+
+    position: relative;
+    top: ;
+    bottom: ;
+    right: ;
+    left: 50px;   
+    border: 10px solid black; 
+    width: 100px;
+    height: 100px;
+    }
+
+
+
+
+
+
+
+
+
+/*
+div{
+color: black;
+width: 20%;
+background: #ff800f;
+margin: 10px 25px;
+padding: 20px;
+border: 10px solid black;
+display: inline-block;
+}*/
+
+
+
+
