@@ -4,43 +4,39 @@
 
 }
 
-section, footer,aside{
-	display:block;
-}
+
 
 body {
 
 	 
-background-image: url(../img/Fondo2.jpg) ;
-background-size: auto;
-background-repeat: no-repeat;
-background-attachment: fixed;
+background:  gray;
 
 
 
 }
 
 header{
-/* Herramienta Para Crear Gradiente */
-background: -moz-linear-gradient(top,  rgba(169,3,41,1) 0%, rgba(143,2,34,0.54) 46%, rgba(110,0,25,0.02) 98%, rgba(109,0,25,0.02) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  rgba(169,3,41,1) 0%,rgba(143,2,34,0.54) 46%,rgba(110,0,25,0.02) 98%,rgba(109,0,25,0.02) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  rgba(169,3,41,1) 0%,rgba(143,2,34,0.54) 46%,rgba(110,0,25,0.02) 98%,rgba(109,0,25,0.02) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#056d0019',GradientType=0 ); /* IE6-9 */
 
 	padding: 20px;
-	display:table;
-	margin:0;
-	padding:0; 
-	width: 100%;
+	display:inline-block;
+	margin:50px;
+	padding:30px; 
+	width: 80px;
+	background: black;
+	text-align: center;
+	color: white;
+	border:5px solid white;
 
 }
 
 h1{
 
-	font-size: 60px;
+	font-size: 40px;
 	font-style: inherit;
 	color:  white;
 	text-align: center;
+	background: red;
+	border:10px solid wheat;
 
 }
 
@@ -48,91 +44,53 @@ h2{
 	color:  white;
 	text-align: center;
 	font-size: 40px;
-
-}
-h5{
-
-color: white;
-text-align: center;
-font-size: 40px; 
-
+	display: inline-block;
+	position: relative;
+	left: 600px;
+	bottom:600px ;
+	background:  #ff800f;
+	border: 10px solid black;
 }
 
-article{
 
-	color:  white;
-
-	width:100%;
-	margin: 0px auto;
-	text-align:justify;
-	font-size: 20px; 
-}
-#Texto2{
-
-	color:  white;
-
-	width:100%;
-	margin: 0px auto;
-	text-align:justify;
-	font-size: 20px; 
-
-
-}
 
 p{
 
 
-	color:  white;
-	font-size: 10px; 
-	text-align: justify;
-
+width: 80%;
+border:20px solid #ff800f;
+display: inline-block;
+background: black;
+color:  white;
+position: relative;
 }
 
-
-
-section{
-padding: 80px;
-margin:80px;
-/* Herramienta Para Crear Gradiente */
-background: -moz-linear-gradient(top,  rgba(76,76,76,1) 0%, rgba(89,89,89,0.96) 12%, rgba(102,102,102,0.92) 25%, rgba(71,71,71,0.87) 39%, rgba(44,44,44,0.83) 50%, rgba(0,0,0,0.83) 51%, rgba(17,17,17,0.8) 60%, rgba(43,43,43,0.75) 76%, rgba(28,28,28,0.7) 91%, rgba(20,20,20,0.67) 99%, rgba(19,19,19,0.67) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  rgba(76,76,76,1) 0%,rgba(89,89,89,0.96) 12%,rgba(102,102,102,0.92) 25%,rgba(71,71,71,0.87) 39%,rgba(44,44,44,0.83) 50%,rgba(0,0,0,0.83) 51%,rgba(17,17,17,0.8) 60%,rgba(43,43,43,0.75) 76%,rgba(28,28,28,0.7) 91%,rgba(20,20,20,0.67) 99%,rgba(19,19,19,0.67) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  rgba(76,76,76,1) 0%,rgba(89,89,89,0.96) 12%,rgba(102,102,102,0.92) 25%,rgba(71,71,71,0.87) 39%,rgba(44,44,44,0.83) 50%,rgba(0,0,0,0.83) 51%,rgba(17,17,17,0.8) 60%,rgba(43,43,43,0.75) 76%,rgba(28,28,28,0.7) 91%,rgba(20,20,20,0.67) 99%,rgba(19,19,19,0.67) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#ab131313',GradientType=0 ); /* IE6-9 */
-
-}
 
 aside{
-	padding: 80px;
-	margin:30px;
-
-
+	
+width: 20%;
+display: inline-block;
+background: #ff800f;
+position: relative;
+left:  250px;
+top: 90px;
+border: 10px solid white;
 }
-#link{
+div{
 
 	color:  white;
-
-
-	text-align:center;
-	font-size: 20px; 
-
-
-
-}
-
-#nombreLink{
-
-
-	text-align: center;
-	font-size: 25px;
-}
-
-#footer{
-
-	color:  white;
-
-	width:100%;
-	margin: 0px auto;
-	text-align:center;
-	font-size: 20px; 
+	display: inline-block;
+	border: 10px solid #ff800f;
+	width: 40%;
+	position: relative;
+	top: 50px;
 
 }
+
+img{
+
+width: 100%;
+border: 2px solid white;
+}
+
+
