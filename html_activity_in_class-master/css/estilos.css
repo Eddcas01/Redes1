@@ -1,0 +1,81 @@
+body
+{
+background:  gray;
+
+}
+
+
+header, .main , footer{
+width: 90%;
+max-width: 100% ;
+margin: 20px auto;
+
+}
+
+header, nav{
+ background: #528fd5;
+ overflow: hidden;
+
+
+}
+header, nav, ul{
+
+list-style: none;
+
+}
+header, nav, ul, li{
+
+float: left;
+
+}
+header, nav, ul, li, a{
+    
+    padding: 20px 20px;
+    display: block;
+    color:black;
+    text-decoration: none;
+
+    
+    
+}
+
+header nav ul li a:hover{
+
+    background:white;
+}
+
+.main, .article{
+
+margin-right:1.5% ;
+width: 68.5% ;
+float: left;
+background: white;
+
+
+
+}
+
+.main .article article{
+
+padding: 20px;
+background: blue;
+margin-bottom: 20px;
+
+}
+
+aside{
+
+width: 30%;
+background: blue;
+float: left;
+}
+footer{
+
+background:white ;
+color:black;
+clear: both;
+padding: 10px 0px;
+text-align: center;
+
+
+}
