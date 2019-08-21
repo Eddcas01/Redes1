@@ -1,0 +1,86 @@
+header{
+
+    position: relative;
+    margin-bottom: 15px;
+
+    padding: 4.5% 3% 20% 5.5% ;
+    width: 90% ;
+    height: 20% ;
+    border: black solid 10px;
+
+
+}
+nav{
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: -15%;
+    margin-bottom: 25%;
+    padding: 1.5% 3% 1% 5.5% ;
+    width: 90% ;
+    height: 20% ;
+    
+
+}
+
+body{
+
+background: #263636;
+
+}
+
+.Titulo{
+position: absolute;
+top: 10%;
+color: rgb(255, 255, 255);
+font-size: 30px ;
+border: black solid 10px;
+text-align: center;
+
+}
+.Lateral{
+position:absolute;
+top: 0; 
+right:0 ;
+margin:10% ;
+padding: 10%;
+width: 10%;
+height: 20% ;
+border: rgb(177, 45, 45) solid 10px;
+
+}
+.Contenido{
+
+
+    background: rgb(0, 0, 0);
+    padding: 4.5% 7px 0% 3% ;
+    width: 70% ;
+    height: 3% ;
+    border: rgb(13, 224, 154) solid 10px;
+}
+.seccion{
+
+   position: relative;
+    margin-top: -26%;
+
+    padding: 4.5% 5.5% 100% 3% ;
+    width: 90% ;
+    height: 3% ;
+   
+    border: rgb(13, 224, 154) solid 10px;
+
+}
+
+.Caja1{
+    
+    margin-bottom: 5%;
+    background: white;
+    padding: 4.5% 7% 0.5% 3% ;
+    width: 90% ;
+    height: 3% ;
+    border: black solid 10px;
+
+}
+p{
+color: white;
+
+}
