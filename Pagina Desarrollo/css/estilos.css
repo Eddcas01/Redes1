@@ -39,19 +39,19 @@ text-align: center;
 }
 .Lateral{
 position:absolute;
-top: 0; 
+top: 2%; 
 right:0 ;
-margin:10% ;
-padding: 10%;
+margin:1% ;
+padding: 1%;
 width: 10%;
-height: 20% ;
+height: 50% ;
 border: rgb(177, 45, 45) solid 10px;
 
 }
 .Contenido{
 
 
-    background: rgb(0, 0, 0);
+    background: rgb(255, 255, 255);
     padding: 4.5% 7px 0% 3% ;
     width: 70% ;
     height: 3% ;
